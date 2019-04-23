@@ -8,4 +8,4 @@ This is a node.js, command line app which allows four commands:
 
 #### Please watch the video below for more details:
 
-Temp Link Here
+Temporary Link - https://youtu.be/__eBsIRqPEQ
